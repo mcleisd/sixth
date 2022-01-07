@@ -2,3 +2,15 @@ body {
     background-color: purple;
     color: #fff;
 }
+
+h1 {
+    color: blue;
+}
+
+ul {
+    background-color: red;
+}
+
+li {
+    color: yellow;
+}
